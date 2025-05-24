@@ -1,2 +1,10 @@
 streamlit
 pandas
+streamlit
+pandas
+streamlit_lottie
+altair
+plotly
+streamlit
+pandas
+
